@@ -1,0 +1,29 @@
+nav ul li:hover {
+    background-color: #08d1fa;
+}
+.banner {
+    /* background-image: url("../images/banner.jpg"); */
+    background: red;
+    width: 100%;
+    height: 90vh;
+}
+.banner .padding {
+    padding-top: 10em;
+}
+.card {
+    height: 380px;
+    padding: 20px;
+    cursor: pointer;
+    transition: transform 300ms ease-in-out;
+}
+.card:hover {
+    transform: scale(1.1);
+}
+.card .syarat {
+    transition: all 0.55s ease-in-out;
+    background-color: green;
+}
+.card .syarat:hover {
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
