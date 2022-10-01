@@ -112,7 +112,7 @@
             <div class="col-2 col-md-2"><i class="far fa-envelope"></i></div>
             <div class="col text-start d-md-flex">
               <p style="height: 14px; font-size: 14px">
-                oriental@oriental.co.id<br />
+                oriental14@gmail.com<br />
               </p>
             </div>
           </div>
@@ -139,7 +139,7 @@
             </div>
             <div class="col text-start">
               <p style="height: 14px; font-size: 14px">
-                Sukolilo, Surabaya, Indonesia<br />
+                Keputih Gg Makam no. 14, Sukolilo, Surabaya<br />
               </p>
             </div>
           </div>
